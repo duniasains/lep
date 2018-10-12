@@ -26,37 +26,11 @@ $currency = 'IDR';
 $photo_path = '/static/musterkindergarten/'; //kalau untuk multiple selection di def di init.php
 $photo_url = 'http://localhost:8888/static/musterkindergarten/';
 
-//plugins/jQuery_File_Upload/server/php/files/images/';
-//themepath
-//cek if admin or not
-//echo $_GET['url'];
-/*if($_GET['url']== 'index')
-    $themepath = 'carouselfull';
-elseif($_GET['url']== 'home' || $_GET['url'] == "leap_admin")
-    $themepath = 'adminlte';
-else {
-    $themepath = 'cleanblog';
-}*/
-/*
-$adminlte = 0;
-if (strpos($_GET['url'], 'EfiHome') !== false || strpos($_GET['url'], 'PageWeb') !== false || strpos($_GET['url'],
-        'GalleryWeb') !== false || strpos($_GET['url'], 'FilesWeb') !== false || strpos($_GET['url'],
-        'EventWeb') !== false || strpos($_GET['url'], 'SettingWeb') !== false
-) {
-    $adminlte = 1;
-}*/
-/*if($_GET['url']== 'index' || $_GET['url'] == "leap_admin"||$adminlte)
-    $themepath = 'adminlte';
-else {
-   $themepath = 'tbstheme';
-}*/
-/*
-$exp = explode("/", $_GET['url']);
-if ($_GET['url'] != "index" && count($exp) < 2) {
-    $themepath = 'tbstheme';
-} else {
-    $themepath = 'adminlte';
-}*/
+$photo_path = '/Users/efindiongso/Documents/htdocs/leap8/uploads/'; //always use full path - elroy 19 12 2014
+//path utk url, tanpa http:// dan tanpa folder e.g /leapportal/
+$photo_url = 'uploads/';
+
+
 if (strpos($_GET['url'], 'EfiHome') !== false || $_GET['url'] == "index"){
     $themepath = 'adminlte';
 }else{
