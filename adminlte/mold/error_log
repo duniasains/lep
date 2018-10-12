@@ -1,0 +1,42 @@
+[17-Sep-2015 02:34:22 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[17-Sep-2015 02:34:22 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[17-Sep-2015 02:34:22 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/c1nt466/public_html/demo2.3/adminlte/mold/header.php on line 22
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/c1nt466/public_html/demo2.3/adminlte/mold/header.php on line 22
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Fatal error:  Class 'Account' not found in /home4/c1nt466/public_html/demo2.3/adminlte/mold/timeline.php on line 29
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Fatal error:  Class 'Leap' not found in /home4/c1nt466/public_html/demo2.3/adminlte/mold/leftmenu.php on line 3
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Fatal error:  Class 'Lang' not found in /home4/c1nt466/public_html/demo2.3/adminlte/mold/loginform.php on line 29
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:40 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/c1nt466/public_html/demo2.3/adminlte/mold/mobile-header.php on line 30

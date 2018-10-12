@@ -1,0 +1,36 @@
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/c1nt466/public_html/demo2.3/adminlte/mold/inbox/see.php on line 27
+[14-Oct-2015 02:08:58 America/Chicago] PHP Fatal error:  Class 'Lang' not found in /home4/c1nt466/public_html/demo2.3/adminlte/mold/inbox/see.php on line 108
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Fatal error:  Class 'Lang' not found in /home4/c1nt466/public_html/demo2.3/adminlte/mold/inbox/myinbox.php on line 23
+[14-Oct-2015 02:08:58 America/Chicago] PHP Fatal error:  Class 'Lang' not found in /home4/c1nt466/public_html/demo2.3/adminlte/mold/inbox/compose.php on line 10
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home4/c1nt466/public_html/demo2.3/adminlte/mold/inbox/isikelas.php on line 6
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /opt/php54/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: undefined symbol: zend_new_interned_string in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[14-Oct-2015 02:08:58 America/Chicago] PHP Fatal error:  Class 'Lang' not found in /home4/c1nt466/public_html/demo2.3/adminlte/mold/inbox/fillEnvelope.php on line 9
