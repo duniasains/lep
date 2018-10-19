@@ -137,7 +137,7 @@ label.checkbox {
     </div>
    <div class="footer">
       <div class="container">
-          &copy; www.leap-systems.com
+          &copy; www.lep.co.id
       </div>
     </div>   
     <!-- /.container -->

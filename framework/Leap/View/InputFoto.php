@@ -69,7 +69,7 @@ class InputFoto extends Html {
 				image.onload = function (imageEvent) {
                                         // Resize image
 					var canvas = document.createElement('canvas'),
-						max_size = 600,
+						max_size = 1200,
 						width = image.width,
 						height = image.height;
 					if (width > height) {

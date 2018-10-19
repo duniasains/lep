@@ -277,4 +277,6 @@ $_lang['Avg. Grade'] = "Nilai rata rata";
 $_lang['Highest Grade'] = "Nilai tertinggi"; 
 $_lang['Lowest Grade'] = "Nilai terendah"; 
 $_lang['Total Data'] = "Total Data"; 
-$_lang['Total Score'] = "Total nilai"; 
+$_lang['Total Score'] = "Total nilai";
+$_lang['July'] = "Juli";
+$_lang['A.Y'] = "TA";

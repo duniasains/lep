@@ -4,7 +4,7 @@
         ?>
 
         
-<form class="form-signin" role="form" action="<?=_SPPATH;?>login?setlang=en" method="post" id="loginform" name="loginform">
+<form class="form-signin" role="form" action="<?=_SPPATH;?>login?setlang=id" method="post" id="loginform" name="loginform">
     
 <div class="row" style="margin-bottom: 20px;">
     <span class="col-xs-10 col-xs-offset-1 col-md-12 col-md-offset-0">

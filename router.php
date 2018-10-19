@@ -127,7 +127,7 @@ $lang->activateGetSetLang();
 //pr($_SESSION);
 $selected_lang = Lang::getLang();
 if(!isset($selected_lang) || $selected_lang == "" || is_object($selected_lang))
-$selected_lang = "en";
+$selected_lang = "id";
 
 //pr($selected_lang);
 

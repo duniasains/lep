@@ -6,7 +6,7 @@
 $serverpath = "localhost";
 $db_username = "root";
 $db_password = "root";
-$db_name = "u7408203_mhssd";
+$db_name = "leap8";
 $db_prefix = '';
 //init db setting
 $DbSetting = array ("serverpath" => $serverpath, "db_username" => $db_username, "db_password" => $db_password,
@@ -14,10 +14,10 @@ $DbSetting = array ("serverpath" => $serverpath, "db_username" => $db_username, 
 //Websetting
 $domain = "localhost:8888";
 $folder = '/leap8/';
-$title = 'Leap System';
-$title = 'Leap System';
-$metakey = 'Leap Key';
-$lang = 'en';
+$title = 'LEP System';
+$title = 'LEP System';
+$metakey = 'LEP Key';
+$lang = 'id';
 $currency = 'IDR';
 //path untuk save, filesystem path kalau untuk linux bisa dari depan /opt/lamp/...
 //$photo_path = './uploads/'; //always use full path - elroy 19 12 2014

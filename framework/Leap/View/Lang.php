@@ -53,7 +53,7 @@ namespace Leap\View;
     }
     
     public static function getLang(){
-        $lang = (isset($_SESSION['lang'])?$_SESSION['lang']:'en');
+        $lang = (isset($_SESSION['lang'])?$_SESSION['lang']:'id');
         return $lang;
     }
     public static function setLang($l){

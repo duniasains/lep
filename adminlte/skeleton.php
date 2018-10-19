@@ -32,17 +32,19 @@
 
     <style>
         .skin-blue .navbar {
-            background-color: #31a3cc;
+            /*background-color: #31a3cc;*/
+            background-color: #f3a637;
+
 
         }
 
         .skin-blue .logo {
-            background: #3ebeff url(<?=_SPPATH;?>images/tab_header.jpg) repeat-x bottom left;
+            background: #3EBEFD url(<?=_SPPATH;?>images/tab_header.jpg) repeat-x bottom left;
             font-family: verdana;
         }
 
         .skin-blue .logo:hover {
-            background: #3ebeff url(<?=_SPPATH;?>images/tab_header.jpg) repeat-x bottom left;
+            background: #3EBEFD url(<?=_SPPATH;?>images/tab_header.jpg) repeat-x bottom left;
         }
 
         body > .header .logo {
@@ -245,7 +247,7 @@
             <img src="<?= _SPPATH; ?>images/tab_icon.jpg">
         </div>
         <!-- Add the class icon to your logo image or logo icon to add the margining -->
-        Leap
+        LEP
     </div>
     <!-- Header Navbar: style can be found in header.less -->
     <nav class="navbar navbar-static-top" role="navigation">

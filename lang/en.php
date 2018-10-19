@@ -334,4 +334,6 @@ $_lang['Avg. Grade'] = "Average Grade";
 $_lang['Highest Grade'] = "Highest Grade"; 
 $_lang['Lowest Grade'] = "Lowest Grade"; 
 $_lang['Total Data'] = "Total Data"; 
-$_lang['Total Score'] = "Total Score"; 
+$_lang['Total Score'] = "Total Score";
+$_lang['July'] = "July";
+$_lang['A.Y'] = "A.Y";
